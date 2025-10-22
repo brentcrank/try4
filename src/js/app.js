@@ -1,4 +1,3 @@
-
 // app.js - Entry point for Football Matrix App
 
 // Wait for the DOM to load
@@ -30,14 +29,3 @@ window.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
-
-// Placeholder functions (to be implemented in separate modules)
-function loadDashboard() {
-    console.log('Loading dashboard...');
-    // Add dashboard rendering logic here
-}
-
-function openSimulationModal() {
-    console.log('Opening simulation modal...');
-    // Add modal logic here
-}
