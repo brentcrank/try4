@@ -1,0 +1,35 @@
+
+.dashboard-container {
+  padding: 2rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.dashboard-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.dashboard-table th,
+.dashboard-table td {
+  padding: 0.75rem;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+.dashboard-table thead {
+  background-color: #f0f8ff;
+}
+.qualified {
+  background-color: #e0ffe0;
+}
+.not-qualified {
+  background-color: #ffe0e0;
+}
+.seed-1 {
+  background-color: #d0f0ff;
+}
+.seed-2 {
+  background-color: #f0f0f0;
+}
+.seed-3 {
+  background-color: #fff0d0;
+}
